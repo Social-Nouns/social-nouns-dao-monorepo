@@ -19,4 +19,4 @@ export * from './deploy-test-token';
 export * from './populate-descriptor-v1';
 export * from './upgrade-descriptor-via-proposal';
 export * from './transfer';
-export * from './callcontractfunction';
+export * from './deployNounsAuctionReferral';
