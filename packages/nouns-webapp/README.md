@@ -1,8 +1,13 @@
 # @nouns/webapp
 
-This package contains the source for the Nouns webapp at [nouns.wtf](https://nouns.wtf).
+This package contains the source for the Social Nouns webapp at [socialnoun.wtf](https://socialnouns.wtf/).
+This package also includes the static analytics page code, and some updates to make the referral system work.
 
 ## Quickstart
+
+If you have already deployed the contracts to test/main net, you can just run "yarn start".
+Otherwise:
+
 
 _From the base of the `nouns-monorepo`_
 
