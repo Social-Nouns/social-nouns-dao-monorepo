@@ -1,10 +1,10 @@
 # nouns-monorepo
 
-Nouns DAO is a generative avatar art collective run by a group of crypto misfits.
+Inspired by Nouns, Social Nouns are a DAO with a mission to support decentralized and open source social protocols.
 
 ## Contributing
 
-If you're interested in contributing to Nouns DAO repos we're excited to have you. Please discuss any changes in `#developers` in [discord.gg/nouns](https://discord.gg/nouns) prior to contributing to reduce duplication of effort and in case there is any prior art that may be useful to you.
+If you're interested in contributing to Social Nouns DAO repos we're excited to have you. Please discuss any changes in `#chat` in [discord.gg/socialnouns](https://discord.gg/WNfEQsTqGB) prior to contributing to reduce duplication of effort and in case there is any prior art that may be useful to you.
 
 ## Packages
 
